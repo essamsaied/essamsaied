@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @essamsaied
 - 👀 I’m interested in data science, quantitative finance & machine learning algorithms
-- 🌱 I’m currently learning cloud computing 
 - 📫 You can reach me through my linkedin profile https://www.linkedin.com/in/essam-saied/
 
 <!---
